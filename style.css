@@ -1,0 +1,129 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 40px;
+}
+
+ul{
+    display: flex;
+    gap: 20px;
+    list-style: none;
+}
+
+.b{
+    width: 700px;
+    height: 350px;
+    
+}
+.c{
+    background-color: black;
+    color: white;
+    width: 250px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-left: 20px;
+    padding-right: 10px;
+}
+
+h1{
+    font-size: 50px;
+}
+
+
+h2{
+    font-size: large;
+}
+
+
+p{
+    font-size: small;
+}
+
+
+.sidebar{
+     
+}
+
+
+main{
+}
+
+button{
+    background-color: brown;
+    border: 0;
+    text-align: center;
+    padding: 7px;
+}
+button:hover {
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+.h{
+    height: 100px;
+    width: 75px;
+}
+
+.g{
+    display: flex;
+    text-align: center;
+    gap: 5px;
+}
+
+.j{
+line-height: 23px;
+}
+
+footer{
+    display: flex;
+    gap: 35px;
+    justify-content: center;
+}
+
+.footer-box{
+    display: flex;
+    gap: 20px;
+}
+
+.h1{
+    color: goldenrod;
+}
+.h2:hover {
+color: goldenrod;
+cursor: pointer;
+}
+
+.ab{
+    color: brown;
+}
+
+h2:hover {
+    color: brown;
+    cursor: pointer;
+}
+
+span:hover {
+    color: brown;
+    cursor: pointer;
+}
+
+body{
+    background-color: white;
+    background-size: auto;
+}
+
+.box-text{
+    line-height: 3ch;
+}
+
+#bottom-line{
+
+    border-bottom: 1px solid black;
+
+}
